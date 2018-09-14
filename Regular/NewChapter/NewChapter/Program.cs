@@ -16,6 +16,9 @@ namespace NewChapter
             Console.WriteLine(step1);
             string step2 = "Clone the repository in visual studio";
             Console.WriteLine(step2);
+            string step3 = "Write a code, commit and push";
+            Console.WriteLine(step3);
+
 
         }
     }
